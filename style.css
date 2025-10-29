@@ -1,4 +1,11 @@
 body{
-    background-color: rgba(217, 92, 117, 0.643);
+    background-color: rgba(17, 58, 184, 0.643);
     font-family: Playwrite Deutschland Grundschrift Guides, cursive;
+}
+header{
+    font-size: 50px;
+    text-align: center;
+    background-color:aqua;
+    color: rgb(24, 173, 13);
+    border:dashed;
 }
